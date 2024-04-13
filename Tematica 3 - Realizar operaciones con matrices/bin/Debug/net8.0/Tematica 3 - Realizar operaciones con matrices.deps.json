@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tematica 3 - Realizar operaciones con matrices/1.0.0": {
+        "runtime": {
+          "Tematica 3 - Realizar operaciones con matrices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tematica 3 - Realizar operaciones con matrices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\bin\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.exe
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\bin\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\bin\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\bin\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.dll
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\bin\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.pdb
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.dll
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\refint\Tematica 3 - Realizar operaciones con matrices.dll
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.pdb
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\Tematica 3 - Realizar operaciones con matrices.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Analisis y Diseño de Algoritmos\Final\Codigo\Tematica 3 - Realizar operaciones con matrices\obj\Debug\net8.0\ref\Tematica 3 - Realizar operaciones con matrices.dll
